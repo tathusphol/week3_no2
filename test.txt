@@ -1,3 +1,5 @@
 commit 1 (master)
 alpha commit
 commit 2 (new)
+commit 2 (new)
+commit 3 (new )
